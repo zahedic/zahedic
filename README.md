@@ -15,6 +15,8 @@ Skills: HTML / CSS/Bootstrap/JavaScript/Python Programming with OOP/Data Structu
 - 💬 Ask me about Python Programming 
 - 📫 How to reach me: zahedic@gmail.com
 
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahedic&label=Profile%20views&color=0e75b6&style=flat" alt="zahedic" /> </p>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zahedic)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-zahedul-islam-chowdhury-129b56a8//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/zahedulislamchowdhury/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/zahedic)  
 
