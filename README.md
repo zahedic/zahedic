@@ -20,7 +20,7 @@ Skills: HTML / CSS/Bootstrap/JavaScript/Python Programming with OOP/Data Structu
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zahedic)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahedic)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahedic" />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zahedic&show_icons=true&count_private=true)  
 
