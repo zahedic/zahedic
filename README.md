@@ -2,9 +2,9 @@
 #### Python Developer
 ![Django Developer](https://media.licdn.com/dms/image/v2/D5616AQGhD-2KZKmKWw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726752368753?e=1733961600&v=beta&t=PWUdS8r0IsV_G-15gj0WbsjTju037wdXyjm6YElVuLU)
 
-I am Zahedul Islam Chowdhury Python Developer at ICON COMPUTER TECHNOLOGY.
+📝 I am Zahedul Islam Chowdhury Python Developer at ICON COMPUTER TECHNOLOGY.
 
-I spend most of time in my life learning programming. Nothing can stop me from being addicted to learning programming. Artificial Intelligence, Machine Learning, Deep Learning and Data Science are my favorite subjects.
+💻 I spend most of time in my life learning programming. Nothing can stop me from being addicted to learning programming. Artificial Intelligence, Machine Learning, Deep Learning and Data Science are my favorite subjects.
 
 Skills: HTML / CSS/Bootstrap/JavaScript/Python Programming with OOP/Data Structure & Algorithm with Python/Django/AI & Machine Learning/Database Programming (Ms SQL Server, MySQL, SQLite)
 
