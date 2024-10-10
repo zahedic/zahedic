@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGhD-2KZKmKWw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726752368753?e=1733356800&v=beta&t=UJ0XIWYhUc0JYPkZ3BllJ-Bd81GzbqO6PclNgVRLbd4"/>
+
 <h1 align="center">Hi 👋, I'm Md. Zahedul Islam Chowdhury</h1>
 <h3 align="center">Web Developer</h3>
 
