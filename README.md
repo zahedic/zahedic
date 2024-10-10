@@ -10,7 +10,7 @@ Skills: HTML / CSS/Bootstrap/JavaScript/Python Programming with OOP/Data Structu
 - 🌱 I’m currently learning Django 
 - 👯 I’m looking to collaborate on Student 
 - 🤔 I’m looking for help with Programming Learning. 
-- 💬 Ask me about Programming 
+- 💬 Ask me about Python Programming 
 - 📫 How to reach me: Programming 
 
 
