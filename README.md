@@ -6,7 +6,7 @@
 
 💻 I spend most of time in my life learning programming. Nothing can stop me from being addicted to learning programming. Artificial Intelligence, Machine Learning, Deep Learning and Data Science are my favorite subjects.
 
-Skills: HTML / CSS/Bootstrap/JavaScript/Python Programming with OOP/Data Structure & Algorithm with Python/Django/AI & Machine Learning/Database Programming (Ms SQL Server, MySQL, SQLite)
+Skills: HTML / CSS/Bootstrap/JavaScript/Python Programming with OOP/Data Structure & Algorithm with Python/Flask & Django/AI & Machine Learning/Database Programming (Ms SQL Server, MySQL, SQLite)
 
 - 🔭 I’m currently working on E-commerce Project 
 - 🌱 I’m currently learning Django 
