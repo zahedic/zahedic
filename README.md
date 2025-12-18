@@ -8,8 +8,8 @@
 
 Skills: HTML / CSS/Bootstrap/JavaScript/Python Programming with OOP/Data Structure & Algorithm with Python/Flask & Django/AI & Machine Learning/Database Programming (Ms SQL Server, MySQL, SQLite)
 
-- 🔭 I’m currently working on E-commerce Project 
-- 🌱 I’m currently learning Django 
+- 🔭 I’m currently working on Django
+- 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on Student 
 - 🤔 I’m looking for help with Programming Learning. 
 - 💬 Ask me about Python Programming 
