@@ -13,7 +13,7 @@ Skills: HTML / CSS/Bootstrap/JavaScript/Python Programming with OOP/Data Structu
 - 👯 I’m looking to collaborate on Student 
 - 🤔 I’m looking for help with Programming Learning. 
 - 💬 Ask me about Python Programming 
-- 📫 How to reach me: zahedic@gmail.com
+- 📫 How to reach me: zahedict@gmail.com
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahedic&label=Profile%20views&color=0e75b6&style=flat" alt="zahedic" /> </p>
 
